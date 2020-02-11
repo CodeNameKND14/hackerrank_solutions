@@ -7,4 +7,5 @@
 |Basic Select     |[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)|[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/Select_All.sql)|
 |Basic Select| [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)| [MySqlSolution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/Select_By_ID.sql)
 |Basic Select|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)| [MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/Japanese_Cities'_Attributes.sql)
-|Basic Select| [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|[MySql](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/Japanese_Cities'_Attributes.sql)
+|Basic Select| [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/Japanese_Cities'_Attributes.sql)
+|Basic Select|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/Weather_Observation_Station_3.sql)
