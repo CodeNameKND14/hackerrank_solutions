@@ -1,0 +1,5 @@
+-- github.com/CodeNameKND14
+
+SELECT NAME 
+FROM CITY 
+WHERE COUNTRYCODE ="JPN"
