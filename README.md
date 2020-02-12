@@ -25,6 +25,9 @@
 |Basic Select|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/name-of-employees.sql)
 |Basic Select|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/name-of-employees.sql)
 |Advanced Select|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/what-type-of-triangle.sql)
+|Advanced Select|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/the-pads.sql)
+|Advanced Select|[Occupations](https://www.hackerrank.com/challenges/occupations/problem)|[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/occupations.sql)
+|Advanced Select|[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) |[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/binary-search-tree-1.sql)
 
 # 10 Days of Statistics 
 |Challenge|Solution|
