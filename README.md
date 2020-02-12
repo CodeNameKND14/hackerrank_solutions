@@ -25,3 +25,9 @@
 |Basic Select|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)|[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/name-of-employees.sql)
 |Basic Select|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/name-of-employees.sql)
 |Advanced Select|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|[MySql Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/SQL/what-type-of-triangle.sql)
+
+# 10 Days of Statistics 
+|Challenge|Solution|
+|---- |----  |
+|[Day 0 Mean, Median, Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)|[Python Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/10%20Days%20of%20Statistic/Day0_Mean_Median_Mode.py)
+|[Day 0 Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem)|[Python Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/10%20Days%20of%20Statistic/weighted_mean.py)
