@@ -34,3 +34,5 @@
 |---- |----  |
 |[Day 0 Mean, Median, Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)|[Python Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/10%20Days%20of%20Statistic/Day0_Mean_Median_Mode.py)
 |[Day 0 Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean/problem)|[Python Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/10%20Days%20of%20Statistic/weighted_mean.py)
+|[Day 1 Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem)|[Python Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/10%20Days%20of%20Statistic/interquartile_range.py)
+|[Day 1 Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem)|[Python Solution](https://github.com/CodeNameKND14/hackerrank_solutions/blob/master/10%20Days%20of%20Statistic/standard_deviation.py)
